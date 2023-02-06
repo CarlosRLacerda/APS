@@ -1,0 +1,41 @@
+LEVANTAMENTO DE REQUISITOS
+Sistema de controle de um posto de gasolina,  
+
+REQUISITOS FUNCIONAIS 
+
+ - Cliente N°3
+ Cadastro principal -
+ Cadastro simples - dados normais para o cliente
+ CPF na nota para conferir
+
+ - Funcionario N° 2
+ Acesso supervionado 
+ Fazer cadastro de abastecimento sendo possivel modificar e não excluir
+
+ Salario atual
+ Gerar relatorio 
+
+ - Posto
+ Materia prima
+ Esquipamentos
+
+ - Dono N° 1
+ Cadastro de funcionario feito somente pelo dono
+ Tabela de log
+
+
+REQUISITOS NÃO FUNCIONAIS / Requisitos do sistema
+
+A bomba de gasolina ira gestrar os valores a vendas de combustivel 
+Rápido
+24 hs
+seguro
+Sempre online
+atualiazação em tempo real
+
+
+relação de todos os abastecimentos - filtros para data, quantidade.
+
+Tabela cliente
+Tabela de Funcionario
+Tabela de Vendas
